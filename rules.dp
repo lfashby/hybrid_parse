@@ -1,0 +1,6 @@
+# Passives
+auxpass: VB[Z|D]?<be,is,was,were> (ADV )*(VBN){hNR33:36}
+%
+
+# Compounds
+compound: (NN )+{hLE1:3}(NN)
